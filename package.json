@@ -1,0 +1,19 @@
+{
+  "name": "hack",
+  "productName": "hack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "package-win": "electron-packager . inmolation --overwrite --asar=true --platform=win32 --arch=ia32 --icon= --prune=true --out=release-builds --version-string.CompanyName=Fojel --version-string.FileDescription=CE --version-string.ProductName=\"inmolation\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^26.3.0",
+    "electron-packager": "^17.1.2"
+  }
+}
