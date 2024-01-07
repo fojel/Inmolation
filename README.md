@@ -2,7 +2,7 @@
 
 Este es un proyecto simple creado con Electron.js que muestra un texto en verde sobre un fondo negro. El propósito principal de este proyecto es proporcionar un codigo basico para molestar a tus amigos, haciendoles creer que es un virus, cuando es un simple script
 
-## Capturas de Pantallaç
+## Capturas de Pantalla
 
 ![imagen](https://github.com/fojelio/Inmolation/assets/79102693/b82db95f-d6ae-4673-844a-3a845ea49da9)
 
