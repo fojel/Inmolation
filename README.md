@@ -1,34 +1,34 @@
 # INMOLATION
 
-Este es un proyecto simple creado con Electron.js que muestra un texto en verde sobre un fondo negro. El propósito principal de este proyecto es proporcionar un codigo basico para molestar a tus amigos, haciendoles creer que es un virus, cuando es un simple script
+This is a simple project created with Electron.js that displays green text on a black background. The main purpose of this project is to provide basic code to prank your friends by making them believe it's a virus when it's just a simple script.
 
-## Capturas de Pantalla
+## Screenshots
 
-![imagen](https://github.com/fojelio/Inmolation/assets/79102693/b82db95f-d6ae-4673-844a-3a845ea49da9)
+![image](https://github.com/fojelio/Inmolation/assets/79102693/b82db95f-d6ae-4673-844a-3a845ea49da9)
 
-## Características
+## Features
 
-- Texto verde sobre fondo negro.
-- Desarrollado con Electron.js.
-- Simple y fácil de entender.
+- Green text on a black background.
+- Developed with Electron.js.
+- Simple and easy to understand.
 
-## Requisitos Previos
+## Prerequisites
 
-Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu máquina.
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
-## Cómo Usar
+## How to Use
 
-1. Clona este repositorio: `git clone https://github.com/fojelio/inmolation.git`
-2. Ingresa al directorio del proyecto: `cd inmolation`
-3. Instala las dependencias: `npm install`
-4. Ejecuta la aplicación: `npm start`
+1. Clone this repository: `git clone https://github.com/fojelio/inmolation.git`
+2. Enter the project directory: `cd inmolation`
+3. Install dependencies: `npm install`
+4. Run the application: `npm start`
 
-¡Listo! Ahora deberías ver una ventana con el script.
+That's it! You should now see a window with the script.
 
-## Contribuciones
+## Contributions
 
-¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes alguna mejora, no dudes en crear un [issue](https://github.com/fojelio/inmolation/issues) o enviar un pull request.
+Contributions are welcome! If you find any issues or have any improvements, feel free to create an [issue](https://github.com/fojelio/inmolation/issues) or submit a pull request.
 
-## Licencia
+## License
 
-Este proyecto está bajo la Licencia [MIT](LICENSE).
+This project is under the [MIT License](LICENSE).
